@@ -25,14 +25,14 @@ I'm always excited to take on new challenges and collaborate with like-minded in
 
 Here are a few of the repositories I'm proud of:
 
-- **[My Portfolio](https://github.com/yourusername/portfolio)**: A personal portfolio showcasing my web development projects.
-- **[Elite Gamers United (EGU)](https://github.com/yourusername/EGU)**: A repository for the esports organization I’m helping to grow.
-- **[Web Development Projects](https://github.com/yourusername/web-dev-projects)**: A collection of websites and applications I've built.
+- **[My Portfolio](https://github.com/iitian-om/my-portfolio)**: A personal portfolio showcasing my web development projects.
+- **[Elite Gamers United (EGU)](https://github.com/iitian-om/EGU)**: A repository for the esports organization I’m helping to grow.
+- **[Web Development Projects](https://github.com/iitian-om/web-dev-projects)**: A collection of websites and applications I've built.
 
 ## 🔗 Connect with Me
 
-- [Website](https://yourwebsite.com)
-- [LinkedIn](https://www.linkedin.com/in/yourname/)
+- [Website](https://iitian-om.com)
+- [LinkedIn](https://www.linkedin.com/in/om-kumar-singh-039b58299/)
 
 ## ⚡ Fun Facts
 
