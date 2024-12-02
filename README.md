@@ -9,8 +9,7 @@
 Hi there! I'm a **student of IIT Patna**, passionate about:  
 
 - **Web Development**: Building sleek, dynamic, and functional web applications.  
-- **Esports Management**: Growing and managing my brand *Elite Gamers United (EGU)*.  
-- **Game Development**: Leveraging Unity Engine to create immersive gaming experiences.  
+- **Esports Management**: Growing and managing my brand *Elite Gamers United (EGU)*.   
 - **Machine Learing**: Learning about alorithms and LLMs to solve my day to day life problems.  
 - **Competitive Programming**: Exploring algorithms, data structures, and Python-based projects.  
 
@@ -45,6 +44,8 @@ Here’s what I love working with:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)    ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)    ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)    ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)    ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
 
 ---  
 
