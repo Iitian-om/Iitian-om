@@ -5,7 +5,7 @@
 ---
 
 ## 👋 About Me  
-                                                                        (created on 03/12/24)
+This reademe file created on 03/12/24
 
 - Hi there! I'm a **student of IIT Patna**, quite passionate about:  **Web Development**/**Machine Learing**/**Competitive Programming**.
 - Here’s a quick glance at my skill set:  
