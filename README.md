@@ -6,7 +6,7 @@
 
 ## 👋 About Me  
 
-- Hi there! I'm a **student of IIT Patna**, quite passionate about:  **Web Development** - **Machine Learing** - **Competitive Programming**  
+- Hi there! I'm a **student of IIT Patna**, quite passionate about:  **Web Development**/**Machine Learing**/**Competitive Programming**  
 - Here’s a quick glance at my skill set:  
 
 | **Mathematics**    | **Languages**     | **Frameworks & Libraries**          | **Tools**     |
@@ -52,8 +52,8 @@ Here are some of my standout projects:
 
 | Project Name      | Description                                | Technologies Used         |  
 |--------------------|--------------------------------------------|---------------------------|  
-| [**Portfolio Website**](https://github.com/Iitian-om/My-Portfolio)    | A sleek and responsive personal portfolio | HTML, CSS, JavaScript      |  
 | [**Netflix Clone**](https://github.com/Iitian-om/Netflix-Clone)          | A Frontend Cloning project showcaseing my html and css skills     | HTML 5, CSS          |  
+| [**Portfolio Website**](https://github.com/Iitian-om/My-Portfolio)    | A sleek and responsive personal portfolio | HTML, CSS, JavaScript      |  
 | [**Elite Gamers United**](https://github.com/Iitian-om/Elite-Gamers-United) | A professional website esports organisation | Node.js, CSS        |  
 | [**Elite Gamers United**](https://github.com/iitian-om/EGUstore) | A merchandise store for EGU | React, Node.js, CSS        |  
 | [**Unity Game Prototypes**](#)          | 3D games showcasing my Unity skills     | C#, Unity Engine          |  
@@ -61,6 +61,7 @@ Here are some of my standout projects:
 ---  
 
 ## 🌟 Fun Facts  
+
 - I enjoy **collaborating on projects and sharing knowledge**.  
 - I love **Mathematical & logical problem-solving** and **playing video games**.  
 - I'm always **learning new technologies** and **improving my development skills**.  
@@ -71,16 +72,14 @@ Here are some of my standout projects:
 
 ## 🤝 Connect With Me  
 
-- **Email**: omkumarsingh56@gmail.com  
+- **Instagram**: [Om kumar singh](https://instagram.com/i_am_om_2k05)  
 - **LinkedIn**: [Om kumar singh](https://linkedin.com/in/om-kumar-singh-039b58299)  
 - **Portfolio Website**: [yourwebsite.com](https://iitian-om.com)  
-- **Instagram**: [Om kumar singh](https://instagram.com/i_am_om_2k05)  
+- **Email**: omkumarsingh56@gmail.com  
 
 ### Thanks for stopping by! ✨  
     Feel free to reach out for collaborations or just to say hi! 😊  Let’s build something amazing together! 🚀
-    Feel free to explore my repositories and let’s collaborate on exciting projects! 😄
-
-
+    Feel free to explore my repositories and let’s collaborate on exciting projects! 😄 
 <!---
 Iitian-om/Iitian-om is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 --->
