@@ -21,14 +21,6 @@ Here’s a quick glance at my skill set:
 - **Tools**: Git, GitHub, VS Code, GitHub Actions  
 
 ---  
-
-
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)  
-
----
-
 ## 🔧 Tools & Technologies  
 Here’s what I love working with:  
 
@@ -39,6 +31,13 @@ Here’s what I love working with:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)    ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)    ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)    ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
+
+
+---
+
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=tokyonight)  
 
 ---  
 ## 🎯 Currently Focusing On:  
@@ -81,10 +80,6 @@ Here are some of my standout projects:
 ### Thanks for stopping by! ✨  
     Feel free to reach out for collaborations or just to say hi! 😊  Let’s build something amazing together! 🚀
     Feel free to explore my repositories and let’s collaborate on exciting projects! 😄
-
-\[
-\int_{10}^{13} 2x \, dx
-\]
 
 <!---
 Iitian-om/Iitian-om is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
