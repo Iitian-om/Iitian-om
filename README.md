@@ -20,12 +20,14 @@
 <!---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark)
 --->  
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark)  
 
 ---  
 
 ## 🔧 Tools & Technologies  
-Here’s what I love working with:  
+
+Here’s what I have worked with:  
 
 #### Languages:  
  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)        ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)    ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)    ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)    
@@ -44,7 +46,7 @@ Here’s what I love working with:
 ## 🎯 Currently Focusing On:  
 
 - **Web Development**: Node.js and Backend.  
-- **Math & CS Concepts**: Calculus, probability theory, Boolean algebra, and algorithms.  
+- **Math & CS Concepts**: Calculus, Boolean algebra, and algorithms.  
 - **Open Source**: Contributing to impactful projects and learning through collaboration.  
 
 ---  
@@ -56,7 +58,7 @@ Here are some of my standout projects:
 |--------------------|--------------------------------------------|---------------------------|  
 | [**Netflix Clone**](https://github.com/Iitian-om/Netflix-Clone)          | A Frontend Cloning project showcaseing my html and css skills     | HTML 5, CSS          |  
 | [**Portfolio Website**](https://github.com/Iitian-om/My-Portfolio)    | A sleek and responsive personal portfolio | HTML, CSS, JavaScript      |  
-| [**Elite Gamers United**](https://github.com/Iitian-om/Elite-Gamers-United) | A professional website esports organisation | Node.js, CSS        |  
+| [**Elite Gamers United**](https://github.com/Iitian-om/Elite-Gamers-United) | A professional website for an esports organisation | Node.js, CSS        |  
 | [**Elite Gamers United**](https://github.com/iitian-om/EGUstore) | A merchandise store for EGU | React, Node.js, CSS        |  
 | [**Unity Game Prototypes**](#)          | 3D games showcasing my Unity skills     | C#, Unity Engine          |  
 
@@ -66,9 +68,8 @@ Here are some of my standout projects:
 
 - I enjoy **collaborating on projects and sharing knowledge**.  
 - I love **Mathematical & logical problem-solving** and **playing video games**.  
-- I'm always **learning new technologies** and **improving my development skills**.  
 - I’ve recently signed up on GitHub to **expand my collaboration and project contributions**.  
-- I’m an esports enthusiast and dream of making **Elite Gamers United (EGU)** a leading esports organization. 🎮  
+- I’m an esports enthusiast and dream of making my **Elite Gamers United (EGU)** a leading esports organization. 🎮  
 
 ---
 
@@ -76,12 +77,14 @@ Here are some of my standout projects:
 
 - **LinkedIn**: [Om kumar singh](https://linkedin.com/in/om-kumar-singh-039b58299)  
 - **Instagram**: [Om kumar singh](https://instagram.com/i_am_om_2k05)  
-- **Portfolio Website**: [yourwebsite.com](https://iitian-om.com)  
+- **Portfolio Website**: [yourwebsite.com](https://yourwebsite.com)  
 - **Email**: omkumarsingh56@gmail.com  
 
 ## Thanks for stopping by! ✨  
-    Feel free to reach out for collaborations or just to say hi! 😊  Let’s build something amazing together! 🚀
-    Feel free to explore my repositories and let’s collaborate on exciting projects! 😄 
+
+    Feel free to reach out for collaborations, to explore my repositories or just to say hi! 😊  Let’s build something amazing together! 🚀  
+
+
 <!---
 Iitian-om/Iitian-om is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 --->
