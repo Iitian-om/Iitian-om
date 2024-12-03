@@ -6,16 +6,17 @@
 
 ## 👋 About Me  
 
-Hi there! I'm a **student of IIT Patna**, quite passionate about:  **Web Development** - **Machine Learing** - **Competitive Programming**  
-Here’s a quick glance at my skill set:  
+- Hi there! I'm a **student of IIT Patna**, quite passionate about:  **Web Development** - **Machine Learing** - **Competitive Programming**  
+- Here’s a quick glance at my skill set:  
 
-| [**Mathematics**]          | **Languages**     | **Frameworks & Libraries**          | **Tools**     |  
-| Differential calculus      | HTML5, CSS, JS, Python, C#     | React, Node.js         | Git, GitHub, VS Code     |  
+| **Mathematics**    | **Languages**     | **Frameworks & Libraries**          | **Tools**     |
+|--------------------|-------------------|-------------------------------------|---------------|
+| Differential calculus      | HTML5, CSS, JS, Python, C#     | React, Node.js         | Git, GitHub, VS Code     |
 
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark)          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark)  
 
 ---  
 
@@ -76,7 +77,7 @@ Here are some of my standout projects:
 ### Thanks for stopping by! ✨  
     Feel free to reach out for collaborations or just to say hi! 😊  Let’s build something amazing together! 🚀
     Feel free to explore my repositories and let’s collaborate on exciting projects! 😄
-                                                                                                                                                          <sup>This readme file were made on 3/12/24</sup>
+
 
 <!---
 Iitian-om/Iitian-om is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
