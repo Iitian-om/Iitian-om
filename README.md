@@ -5,8 +5,9 @@
 ---
 
 ## 👋 About Me  
+                                                                        (created on 03/12/24)
 
-- Hi there! I'm a **student of IIT Patna**, quite passionate about:  **Web Development**/**Machine Learing**/**Competitive Programming**  
+- Hi there! I'm a **student of IIT Patna**, quite passionate about:  **Web Development**/**Machine Learing**/**Competitive Programming**.
 - Here’s a quick glance at my skill set:  
 
 | **Mathematics**    | **Languages**     | **Frameworks & Libraries**          | **Tools**     |
@@ -17,7 +18,9 @@
 
 ## 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark)  
+<!---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark)
+--->  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark)  
 
 ---  
