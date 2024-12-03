@@ -16,7 +16,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark)          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark)  
 
 ---  
 
