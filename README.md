@@ -74,12 +74,12 @@ Here are some of my standout projects:
 
 ## 🤝 Connect With Me  
 
-- **Instagram**: [Om kumar singh](https://instagram.com/i_am_om_2k05)  
 - **LinkedIn**: [Om kumar singh](https://linkedin.com/in/om-kumar-singh-039b58299)  
+- **Instagram**: [Om kumar singh](https://instagram.com/i_am_om_2k05)  
 - **Portfolio Website**: [yourwebsite.com](https://iitian-om.com)  
 - **Email**: omkumarsingh56@gmail.com  
 
-### Thanks for stopping by! ✨  
+## Thanks for stopping by! ✨  
     Feel free to reach out for collaborations or just to say hi! 😊  Let’s build something amazing together! 🚀
     Feel free to explore my repositories and let’s collaborate on exciting projects! 😄 
 <!---
