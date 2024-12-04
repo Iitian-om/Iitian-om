@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile!  
 
-!["Welcome to My GitHub"](https://via.placeholder.com/1200x400?text=Namaste+and+Welcome+to+My+GitHub+Profile&bg=FFD700&color=#F8F8F2)  
+!["Welcome to My GitHub"](https://via.placeholder.com/1200x400?text=Namaste+and+Welcome+to+My+GitHub+Profile)  
 
 ---
 
