@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile!  
 
-![Header](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)  
+!["Welcome to My GitHub"](https://via.placeholder.com/1200x400?text=Namaste+and+Welcome+to+My+GitHub+Profile&bg=FFD700&color=#F8F8F2)  
 
 ---
 
@@ -52,6 +52,7 @@ Here’s what I have worked with:
 ---  
 
 ## 📂 Featured Projects  
+
 Here are some of my standout projects:  
 
 | Project Name      | Description                                | Technologies Used         |  
@@ -81,9 +82,7 @@ Here are some of my standout projects:
 - **Email**: omkumarsingh56@gmail.com  
 
 ## Thanks for stopping by! ✨  
-
-    Feel free to reach out for collaborations, to explore my repositories or just to say hi! 😊  Let’s build something amazing together! 🚀  
-
+    Feel free to reach out for collaborations, explore my repos or just to say hi!😊 Let’s build something amazing together! 🚀
 
 <!---
 Iitian-om/Iitian-om is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
