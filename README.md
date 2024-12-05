@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile!  
 
-!["Welcome to My GitHub"](https://via.placeholder.com/1200x400?text=Namaste+and+Welcome+to+My+GitHub+Profile)  
+!["Welcome to My GitHub"](https://via.placeholder.com/1200x400?https://raw.github.com/Iitian-om/Iitian-om/blob/main/WhatsApp%20Image%202024-12-05%20at%2016.04.36_9a91fdb3.jpg)  
 
 <p align="center">
   <img src="https://raw.github.com/Iitian-om/Iitian-om/blob/main/WhatsApp%20Image%202024-12-05%20at%2016.04.36_9a91fdb3.jpg
