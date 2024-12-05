@@ -2,7 +2,7 @@
 
 !["Welcome to My GitHub"](https://via.placeholder.com/1200x400?text=Namaste+and+Welcome+to+My+GitHub+Profile)  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/Iitian-om/Iitian-om/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 ---
 
