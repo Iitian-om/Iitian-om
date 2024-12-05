@@ -5,9 +5,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Iitian-om/Iitian-om/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iitian-om)] (https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 👋 About Me  
