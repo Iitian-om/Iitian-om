@@ -1,9 +1,5 @@
 # 💻 Welcome to My GitHub Profile!  
 
-!["Welcome to My GitHub"](https://raw.github.com/Iitian-om/Iitian-om)  
-
----
-
 ## 👋 About Me  
 
 - Hi there! I'm a **student of IIT Patna**, quite passionate about:  **Web Development**/**Machine Learing**/**Competitive Programming**.
