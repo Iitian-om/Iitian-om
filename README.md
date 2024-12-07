@@ -1,10 +1,7 @@
 # 💻 Welcome to My GitHub Profile!  
 
-!["Welcome to My GitHub"](https://raw.github.com/Iitian-om/Iitian-om/blob/main/WhatsApp%20Image%202024-12-05%20at%2016.04.36_9a91fdb3.jpg)  
+!["Welcome to My GitHub"](https://raw.github.com/Iitian-om/Iitian-om)  
 
-<p align="center">
-  <img src="https://raw.github.com/Iitian-om/Iitian-om/blob/main/WhatsApp%20Image%202024-12-05%20at%2016.04.36_9a91fdb3.jpg" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 ---
 
 ## 👋 About Me  
