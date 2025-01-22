@@ -11,7 +11,7 @@
 
 ---  
 
-## 🔧 Languages, Tools & Techs  
+## **</>**Languages, Tools & Techs  
 
 Here’s what I have worked with:  
 *Category*            | **Technologies**                                                                                                           |
