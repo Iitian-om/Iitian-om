@@ -25,8 +25,7 @@
 
 Here’s what I have worked with:  
 
-#### Engines: 
- - ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)    
+#### Engines: ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)    
 
 #### Frameworks: 
  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)    ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
