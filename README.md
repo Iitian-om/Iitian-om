@@ -9,16 +9,6 @@
 |--------------------|-------------------|-------------------------------------|---------------|
 | Differential calculus      | HTML5, CSS, JS, Python, C#     | React, Node.js         | Git, GitHub, VS Code     |
 
----
-
-## 📊 GitHub Stats  
-
-<!---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark)
---->  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark)  
-
 ---  
 
 ## 🔧 Languages, Tools & Techs  
@@ -34,13 +24,15 @@ Here’s what I have worked with:
 
 ---  
 
-## 🎯 Currently Focusing On:  
+## 📊 GitHub Stats  
 
-- **Web Development**: Node.js and Backend.  
-- **Math & CS Concepts**: Calculus, Boolean algebra, and algorithms.  
-- **Open Source**: Contributing to impactful projects and learning through collaboration.  
+<!---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark)
+--->  
 
----  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark)  
+
+---
 
 ## 📂 Featured Projects  
 
@@ -56,21 +48,14 @@ Here are some of my standout projects:
 
 ---  
 
-## 🌟 Fun Facts  
-
-- I enjoy **collaborating on projects and sharing knowledge**.  
-- I love **Mathematical & logical problem-solving** and **playing video games**.  
-- I’ve recently signed up on GitHub to **expand my collaboration and project contributions**.  
-- I’m an esports enthusiast and dream of making my **Elite Gamers United (EGU)** a leading esports organization. 🎮  
-
----
-
 ## 🤝 Connect With Me  
 
 - **LinkedIn**: [Om kumar singh](https://linkedin.com/in/om-kumar-singh-039b58299)  
 - **Instagram**: [Om kumar singh](https://instagram.com/i_am_om_2k05)  
 - **Portfolio Website**: [yourwebsite.com](https://yourwebsite.com)  
 - **Email**: omkumarsingh56@gmail.com  
+
+---  
 
 ## Thanks for stopping by! ✨  
     Feel free to reach out for collaborations, explore my repos or just to say hi!😊 Let’s build something amazing together! 🚀
