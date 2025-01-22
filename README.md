@@ -30,59 +30,7 @@ Here’s what I have worked with:
 | **Frameworks**            | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
 | **Tools**                 | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
 | **Programming Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)   ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **Markup Languages**      | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)   ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&width=200&height50)   ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) |
-
-# Technologies
-
-## Engines
-<a href="#" title="Unity">
-  <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" alt="Unity" width="200" height="50">
-</a>
-
-## Frameworks
-<a href="#" title="React">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" width="200" height="50">
-</a>
-<a href="#" title="Node.js">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" width="200" height="50">
-</a>
-
-## Tools
-<a href="#" title="Git">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" width="200" height="50">
-</a>
-<a href="#" title="GitHub">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" width="200" height="50">
-</a>
-<a href="#" title="Figma">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" width="200" height="50">
-</a>
-
-## Programming Languages
-<a href="#" title="JavaScript">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="200" height="50">
-</a>
-<a href="#" title="C#">
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white" alt="C#" width="200" height="50">
-</a>
-<a href="#" title="Python">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" width="200" height="50">
-</a>
-
-## Markup Languages
-<a href="#" title="HTML">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" width="200" height="50">
-</a>
-<a href="#" title="CSS">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" width="200" height="50">
-</a>
-<a href="#" title="Markdown">
-  <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" width="200" height="50">
-</a>
-<a href="#" title="LaTeX">
-  <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX" width="200" height="50">
-</a>
-
+| **Markup Languages**      | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)   ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&width=200&height=50)   ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) |
 
 ---  
 
