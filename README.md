@@ -33,7 +33,7 @@ Here’s what I have worked with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)        ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)    ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)    ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)    ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 
-![LaTeX](https://img.shields.io/badge/-LaTeX-F24E1E?logo=LaTeX&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)  
 
 ---  
 
