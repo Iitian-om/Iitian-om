@@ -1,4 +1,8 @@
-# 💻 Welcome to My GitHub Profile!  
+# 
+<h1 align="center">Hi, I'm Om Kumar Singh!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+%7C+Visionary+Maverick;Data+Science+%E2%9C%A8;Machine+Learning+%7C+NextJS+Enthusiast;Mathematics+%7C+Gaming+%7C+Open+Source&center=true&width=500&height=45">
+</p>
 
 ## 👋 About Me  
 
@@ -44,7 +48,8 @@ Here are some of my standout projects:
 | [**Portfolio Website**](https://github.com/Iitian-om/My-Portfolio)    | A sleek and responsive personal portfolio | HTML, CSS, JavaScript      |  
 | [**Elite Gamers United**](https://github.com/Iitian-om/Elite-Gamers-United) | A professional website for an esports organisation | Node.js, CSS        |  
 | [**Elite Gamers United**](https://github.com/iitian-om/EGUstore) | A merchandise store for EGU | React, Node.js, CSS        |  
-| [**Unity Game Prototypes**](#)          | 3D games showcasing my Unity skills     | C#, Unity Engine          |  
+| [**Unity Game Prototypes**](#)          | 3D games showcasing my Unity skills     | C#, Unity Engine          | 
+| **Portfolio** | My personal website showcases my work, achievements, and blog: [iitian-om-portfolio.lovable.app](https://iitian-om-portfolio.lovable.app/) |
 
 ---  
 
