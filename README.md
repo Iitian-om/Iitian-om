@@ -17,13 +17,7 @@
 ---
 
 I am an imperfect & curious person looking for perfection. And, with that I am an <i>**undergrad** 🎓 at **IIT Patna**</i>, developer and learner. I'm curious about <i>**Web Development, Machine Learning, Competitive Programming**.</i> I love building web apps, tinkering with algorithms, and exploring how **<i>Mathematics</i>** powers real-world systems.
-Their maybe quite slow to get a reply back from.
 
-```
-while(alive) {
-    code(); debug(); cry(); sleep(); repeat();
-}
-```
 ---
 
 ## 📫 Let’s Connect!
@@ -83,10 +77,7 @@ Here's a concise overview of what I work with and explore:
 
 ## Still Here? 
 
- **End of README** Dude
-    You've scrolled through my digital footprints — congrats! 🎉
-      If you’re still here, either you’re curious... or lost in the matrix.
-
+ **End of README** Dude, You've scrolled through my digital footprints — congrats! 🎉
 ```
 <p>
   If (you liked this) {
