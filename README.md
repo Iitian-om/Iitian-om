@@ -1,51 +1,32 @@
-<h1 align="center">Hey there! 👋 I'm Om Kumar Singh</h1>
 
-<!-- 
-    
+<h2>Om Kumar Singh - @iitian-om</h2>
+
+<h1>Hey there! 👋</h1>
+
+<!-- Profile Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=🚀+Student+@+IIT+Patna;✨+Web+Dev+%7C+ML+Explorer;🎮+Gamer+%7C+Open+Source+Enthusiast&center=true&width=500&height=30">
-</p>
-
-    Typing animation with reduced height 
--->
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/IIT%20Patna-CSDA-003366?style=for-the-badge&logo=academia&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/IIT%20Patna-CSDA-003366?style=flat&logo=academia&logoColor=white" alt="IIT Patna" /></a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Iitian-om?style=for-the-badge&logo=github&logoColor=white&color=4B0082" />
+  <a href="https://github.com/Iitian-om"><img src="https://img.shields.io/github/followers/Iitian-om?style=flat&logo=github&logoColor=white&color=4B0082" alt="GitHub Followers" /></a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Iitian-om&style=for-the-badge&label=Profile+Views&color=0A66C2" />
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=Iitian-om&style=flat&label=Profile+Views&color=0A66C2" alt="Profile Views" /></a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Public%20Repos-REPLACE_COUNT-blue?style=for-the-badge&logo=github" />
+  <a href="#"><img src="https://img.shields.io/badge/Commits%20This%20Year-REPLACE_COUNT-orange?style=flat&logo=git&logoColor=white" alt="Commits This Year" /></a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Commits%20This%20Year-REPLACE_COUNT-orange?style=for-the-badge&logo=git" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-2C3539?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Enthusiast-24292F?style=flat&logo=github&logoColor=white" alt="Open Source" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 I'm a passionate **CS & Data Analytics undergrad** at **IIT Patna**, curious about:  
-- 🌐 **Web Development**  
-- 🤖 **Machine Learning**  
-- ⚔️ **Competitive Programming**
-
-I love building web apps, tinkering with algorithms, and exploring how math powers real-world systems.
-
----
-
-## 🧠 Skill Snapshot
-
-| Mathematics                  | Programming Languages                | Frameworks & Libraries             | Tools & Platforms                   |
-|-----------------------------|--------------------------------------|------------------------------------|-------------------------------------|
-| Calculus, Probability, Logic| HTML, CSS, JavaScript, Python, C#    | React, Node.js, Next.js, Express   | Git, GitHub, VS Code, Figma         |
+I am an imperfect & curious person looking for perfection. And, with that I am an <i>**undergrad** 🎓 at **IIT Patna**</i>, developer and learner.
+I'm curious about <i>**Web Development, Machine Learning, Competitive Programming**.</i>
+I love building web apps, tinkering with algorithms, and exploring how **<i>Mathematics</i>** powers real-world systems.
 
 ---
 
 ## 📫 Let’s Connect!
+
+-  If you find me interesting or want to collaborate with me do get in touch! :)
 
 <a href="https://linkedin.com/in/om-kumar-singh-039b58299" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Om%20Kumar%20Singh-blue?style=flat&logo=linkedin"></a>
 <a href="https://instagram.com/i_am_om_2k05" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@i_am_om_2k05-E4405F?style=flat&logo=instagram&logoColor=white"></a>
@@ -56,21 +37,43 @@ I love building web apps, tinkering with algorithms, and exploring how math powe
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark&border_radius=10&hide=prs" width="450"/>
+    &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark&border_radius=10" width="350"/>
 </p>
 
-
 ---
 
-## 🛠️ Technologies I Use
+## 🧠 Skill Snapshot
 
-| **Category**         | **Technologies** |
-|----------------------|------------------|
-| 💻 **Engines**        | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) |
-| ⚛️ **Frameworks**     | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) |
-| 🧰 **Tools**          | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
-| 💡 **Languages**      | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| 📝 **Markup**         | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) |
+Here's a concise overview of what I work with and explore:
+
+<p align="center">
+  <!-- Languages -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <!-- Frameworks & Libraries -->
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://colab.research.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" alt="Google Colab" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" height="30"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" height="30"/></a>&nbsp;&nbsp;&nbsp;
+</p>
+
 
 ---
 
