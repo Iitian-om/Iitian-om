@@ -76,6 +76,8 @@ Here's a concise overview of what I work with and explore:
 ## Checkout my Latest repo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Iitian-om&repo=eduhub-lms&theme=github_dark&border-radius="15")](https://github.com/Iitian-om/eduhub-lms)
+&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Iitian-om&repo=Notes-WebApp&theme=github_dark&border-radius="15")](https://github.com/Iitian-om/Notes-WebApp)
 
 ---
 
