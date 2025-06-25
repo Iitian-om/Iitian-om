@@ -4,25 +4,23 @@
 
 <!-- Profile Badges -->
 <p align="center">
-  <a href="#">
+  <a href="https://www.iitp.ac.in">
     <img src="https://img.shields.io/badge/Student%20@%20-IIT_Patna-003366?style=flat&logo=academia&logoColor=white" height="22" alt="Student @IIT Patna"/></a>
   &nbsp;
   <a href="https://github.com/Iitian-om"><img src="https://img.shields.io/github/followers/Iitian-om?style=flat&logo=github&logoColor=white&color=4B0082" height="22" alt="GitHub Followers"/></a>
   &nbsp;
   <a href="#"><img src="https://komarev.com/ghpvc/?username=Iitian-om&style=flat&label=Profile+Views&color=0A66C2" height="22" alt="Profile Views"/></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Enthusiast-24292F?style=flat&logo=github&logoColor=white" height="22" alt="Open Source"/></a>
-</p>
+<!--   <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Enthusiast-24292F?style=flat&logo=github&logoColor=white" height="22" alt="Open Source"/></a>
+</p> -->
 
 ---
-
 I am an imperfect & curious person looking for perfection. And, with that I am an <i>**undergrad** 🎓 at **IIT Patna**</i>, developer and learner. I'm curious about <i>**Web Development, Machine Learning, Competitive Programming**.</i> I love building web apps, tinkering with algorithms, and exploring how **<i>Mathematics</i>** powers real-world systems.
 
 ---
 
 ## 📫 Let’s Connect!
-
--  Open to ideas, collaboration, and innovation - do get in touch! :)
+- Open to ideas, collaboration, and innovation - do get in touch! :)
 <p>
   <a href="https://linkedin.com/in/om-kumar-singh-039b58299" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Om%20Kumar%20Singh-blue?style=flat&logo=linkedin" height="22"/></a>&nbsp;
   <a href="https://instagram.com/i_am_om_2k05" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@i_am_om_2k05-E4405F?style=flat&logo=instagram&logoColor=white" height="22"/></a>&nbsp;
@@ -33,21 +31,16 @@ I am an imperfect & curious person looking for perfection. And, with that I am a
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark&border_radius=10&hide=prs&cache_seconds=3600" width="450"/>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&layout=compact&theme=github_dark&border_radius=10&cache_seconds=3600" width="350"/>
 </p>
-
 ---
 
 ## 🧠 Skill Snapshot
-
 Here's a concise overview of what I work with and explore:
-
 <p align="center">
-  <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
@@ -68,22 +61,15 @@ Here's a concise overview of what I work with and explore:
 ---
 
 ## Checkout my Latest repo
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Iitian-om&repo=eduhub-lms&theme=github_dark&border-radius="15")](https://github.com/Iitian-om/eduhub-lms)
-&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Iitian-om&repo=Notes-WebApp&theme=github_dark&border-radius="15")](https://github.com/Iitian-om/Notes-WebApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Iitian-om&repo=eduhub-lms&theme=github_dark&border-radius="15")](https://github.com/Iitian-om/eduhub-lms) 
 
 ---
 
 ## Still Here? 
-
  **End of README** Dude, You've scrolled through my digital footprints — congrats! 🎉
-```
-<p>
+  ```
   If (you liked this) {
      fork(); star(); maybe even collab();
   } else {
-     console.error("404: Neither Brain Nor Humor is found.");
+     console.log("404: Humor is found.");
   }
-</p>
-```
