@@ -110,7 +110,7 @@ _Open to ideas, collaboration, and innovation — feel free to reach out!_
 
   <img src="https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark" width="45%" align="left"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iitian-om&show_icons=true&theme=github_dark" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&theme=github_dark&border_radius=10&layout=donut" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&theme=github_dark&border_radius=10&layout=donut" width="45%"/>
 <br>
 
 ---- 
