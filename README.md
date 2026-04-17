@@ -1,5 +1,3 @@
-<h7>Om Kumar - @iitian-om</h7>
-
 <h1>Hey there! 👋</h1> 
 
 <!-- Profile Badges -->
@@ -155,7 +153,7 @@ _A concise overview of tools & technologies I work with and explore._
 
 --- 
 
-## <i>**End of README**</i> 
+## <i>**End of README!**</i> 
   Dude, You've scrolled through my digital footprints — congrats! 🎉
   ```
   If (you liked this) {
