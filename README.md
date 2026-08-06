@@ -1,14 +1,15 @@
 <h1>Hey there! 👋</h1> 
 
-<!-- Profile Badges -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2B4C7E&center=true&vCenter=true&width=600&lines=B.S.+CS+%26+Data+Analytics+%40+IIT+Patna;Full-Stack+Developer+%7C+Data+%26+ML;Aspiring+Quant+Researcher+%2F+HFT;)](https://git.io/typing-svg)
+
 <p>
   <a href="https://www.iitp.ac.in">
     <img src="https://img.shields.io/badge/Student%20@%20-IIT_Patna-003366?style=flat&logo=academia&logoColor=white" height="22" alt="Student @IIT Patna"/></a>
   &nbsp;
   <a href="https://github.com/Iitian-om"><img src="https://img.shields.io/github/followers/Iitian-om?style=flat&logo=github&logoColor=white&color=4B0082" height="22" alt="GitHub Followers"/></a>
   &nbsp;
-  <!-- <a href="#"><img src="https://komarev.com/ghpvc/?username=Iitian-om&style=flat&label=Profile+Views&color=0A66C2" height="22" alt="Github Profile Views"/></a> -->
-  <!-- &nbsp; -->
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=Iitian-om&style=flat&label=Profile+Views&color=0A66C2" height="22" alt="Github Profile Views"/></a>
+  &nbsp;
     <a href="https://img.shields.io/badge/Open%20Source-Enthusiast-24292F?style=flat&logo=github&logoColor=white""><img src="https://img.shields.io/badge/Open%20Source-Enthusiast-24292F?style=flat&logo=github&logoColor=white" height="22" alt="Open Source"/></a>
   &nbsp;
     <a href="https://visitor-badge.laobi.icu/badge?page_id=IITIAN-OM.IITIAN-OM"><img src="https://visitor-badge.laobi.icu/badge?page_id=IITIAN-OM.IITIAN-OM?style=flat" height="22" alt="Profile_Visitors"/></a>
@@ -18,7 +19,19 @@
 --- 
 
 ### About Me 
-I am an imperfect & curious person looking for perfection. And, with that I am an <i>**undergrad** 🎓 at **IIT Patna**</i>, developer and learner. I'm curious about <i>**Web Development, Machine Learning, Competitive Programming**.</i> I love building web apps, tinkering with algorithms, and exploring how **<i>Mathematics</i>** powers real-world systems.
+
+<!---
+Hi I am an imperfect & curious person looking for perfection. And, with that I am an <i>**undergrad** 🎓 at **IIT Patna**</i>, developer and learner. I'm curious about <i>**Web Development, Machine Learning, Competitive Programming**.</i> I love building web apps, tinkering with algorithms, and exploring how **<i>Mathematics</i>** powers real-world systems.
+--->
+
+B.S. Computer Science & Data Analytics undergrad at IIT Patna, building full-stack products and exploring quantitative research. Currently developing EduHub LMS and completed J.P. Morgan's Quantitative Research Job Simulation, with a growing focus on Quant Research / HFT roles.
+
+- *B.S. in **Computer Science & Data Analytics**, Indian Institute of Technology, Patna (2024–2028)*
+- *Currently building **EduHub LMS** — originally a college course project, now being expanded independently toward a public launch*
+- *Completed **J.P. Morgan's Quantitative Research Job Simulation** — built natural-gas price forecasting & storage-contract pricing models, and a credit-risk / FICO-scoring model*
+- *Aspiring toward **Quantitative Research / High-Frequency Trading (HFT)** roles — actively deepening my math, statistics, and competitive-programming foundations*
+- *Working as an **EV Tech Intern** at Codec Technologies India*
+- *Ask me about full-stack development (Next.js/React/Node), Python for data & quant work, or system design*
 
 ---
 
@@ -32,12 +45,12 @@ _Open to ideas, collaboration, and innovation — feel free to reach out!_
 
 <a href="https://linkedin.com/in/om-kumar-singh-039b58299" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Om%20Kumar%20Singh-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24"/>
-</a>
+<!-- </a>
 <a href="https://instagram.com/i_am_om_2k05" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-@i__am__om__2k05-E4405F?style=flat&logo=instagram&logoColor=white" height="24"/>
-</a>
-<a href="mailto:omkumarsingh56@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-omkumarsingh56%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="24"/>
+</a> -->
+<a href="mailto:iitp.omkumar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-iitp.omkumar%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="24"/>
 </a>
 
 </td>
@@ -63,10 +76,11 @@ _Open to ideas, collaboration, and innovation — feel free to reach out!_
 <a href="https://www.codechef.com/users/yourusername" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat&logo=codechef&logoColor=white" height="24"/>
 </a>
-<a href="https://www.hackerrank.com/yourusername" target="_blank">
+-->
+<a href="https://www.hackerrank.com/profile/omkumarsingh56" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&logoColor=white" height="24"/>
 </a>
-<a href="https://codepen.io/yourusername" target="_blank">
+<!-- <a href="https://codepen.io/yourusername" target="_blank">
 <img src="https://img.shields.io/badge/CodePen-Profile-000000?style=flat&logo=codepen&logoColor=white" height="24"/>
 </a>
 <a href="https://stackoverflow.com/users/yourid/yourname" target="_blank">
@@ -77,18 +91,18 @@ _Open to ideas, collaboration, and innovation — feel free to reach out!_
 </a>
 <a href="https://hashnode.com/@yourusername" target="_blank">
 <img src="https://img.shields.io/badge/Hashnode-Profile-2962FF?style=flat&logo=hashnode&logoColor=white" height="24"/>
-</a>
--->
+</a> -->
+
 </td>
 </tr>
 
 <tr>
 <td align="center"><b><i>Professionals</i></b></td>
 <td align="center">
-  <a href="https://omkumar69-portfolio.vercel.app" target="_blank"/>
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blueviolet?style=flat" height="24"/>
+  <a href="https://iitianom.xyz" target="_blank"/>
+    <img src="https://img.shields.io/badge/Portfolio-Click%20Me-blueviolet?style=flat" height="24"/>
   </a>
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-success?style=flat" height="24"/>
+<!-- <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-success?style=flat" height="24"/> -->
 </td>
 </tr>
 
@@ -104,24 +118,29 @@ _Open to ideas, collaboration, and innovation — feel free to reach out!_
 
 ## GitHub Analytics
 
-<!-- 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iitian-om?cardType=level&theme=blue-green&fontFamily=Atomic%20Age&preferLogin=false&)](https://git.io/awesome-stats-card) 
--->
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Iitian-om&show_icons=true&theme=github_dark" width="45%" align="left"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iitian-om&show_icons=true&theme=github_dark" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian-om&theme=github_dark&border_radius=10&layout=donut" width="45%"/>
-<br>
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/iitian-om?cardType=level&theme=blue-green&fontFamily=Atomic%20Age&preferLogin=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iitian-om&show_icons=true&theme=github_dark" width="48%" />
+</p>
 
 ---- 
-## 
+## Graph
 ![My Awesome Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iitian-om&theme=github_dark)
 
 --- 
-## Take a look on my higlighted repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Iitian-om&repo=eduhub-lms&theme=github_dark&border-radius="15")](https://github.com/Iitian-om/eduhub-lms) 
-&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Iitian-om&repo=projectx&theme=github_dark&border-radius="15")](https://github.com/Iitian-om/projectx) 
+<!---
+## Take a look at my highlighted repos
+
+<p align="center">
+  <a href="https://github.com/Iitian-om/eduhub-lms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iitian-om&repo=eduhub-lms&theme=github_dark&border_radius=15" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Iitian-om/projectx">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iitian-om&repo=projectx&theme=github_dark&border_radius=15" />
+  </a>
+</p>
+--->
 
 --- 
 
@@ -162,3 +181,7 @@ _A concise overview of tools & technologies I work with and explore._
      console.log("404: Humor is found.");
   }
 ``` 
+
+
+
+ -->
